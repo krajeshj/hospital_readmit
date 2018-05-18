@@ -28,7 +28,7 @@ Preliminary report was read, Null and Alternate Hpothesis was set up, observatio
 
 File|Description
 ---------|-------------------------------------------------------------------------------------------------------------------
-[]  | Notebook containing code
+[hospital_readmit/code/sliderule_dsi_inferential_statistics_exercise_3.ipynb]  | Notebook containing code
 [](https://github.com/krajeshj/EDA_racial_discrimination/tree/master/data)| data for the notebook
  
 ### Directories
