@@ -28,8 +28,8 @@ Preliminary report was read, Null and Alternate Hpothesis was set up, observatio
 
 File|Description
 ---------|-------------------------------------------------------------------------------------------------------------------
-[hospital_readmit/code/sliderule_dsi_inferential_statistics_exercise_3.ipynb]   | Notebook containing code
-[hospital_readmit/data/cms_hospital_readmissions.csv]| data for the notebook
+[hospital_readmit/code/sliderule_dsi_inferential_statistics_exercise_3.ipynb](https://github.com/krajeshj/hospital_readmit/blob/master/code/sliderule_dsi_inferential_statistics_exercise_3.ipynb)   | Notebook containing code
+[hospital_readmit/data/cms_hospital_readmissions.csv](https://github.com/krajeshj/hospital_readmit/blob/master/data/cms_hospital_readmissions.csv)| data for the notebook
  
 ### Directories
 
